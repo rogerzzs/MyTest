@@ -7,6 +7,8 @@ import android.util.Log;
 import android.widget.TextView;
 
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;
@@ -47,6 +49,7 @@ public class MainActivity extends Activity {
 
             }
         });
+        Map<String, String> hashMap = New.map();
     }
     interface GetVersionService{
         @GET(ServerAPI.GET_APP_VRESION + "{versionCode}")
