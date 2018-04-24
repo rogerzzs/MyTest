@@ -9,6 +9,7 @@ public class Seqence {
     private int next = 0;
 
     public Seqence(int size) {
+
         items = new Object[size];
     }
 
