@@ -1,7 +1,7 @@
 package com.example.zhangzhongshuai.pattern;
 
 /**
- * Created by zhangzhongshuai on 2018/4/20.
+ * Created by zhangzhongshuai on 2018/4/20,houhouhouo
  */
 
 public class Seqence {
