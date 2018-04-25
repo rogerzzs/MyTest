@@ -8,5 +8,5 @@ public class GitTest {
     private int nimei;
     private String name;
     private String age;
-
+    private String sex;
 }
