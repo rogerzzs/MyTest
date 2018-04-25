@@ -6,4 +6,5 @@ package com.example.zhangzhongshuai.pattern;
 
 public class GitTest {
     private int nimei;
+    private String name;
 }
