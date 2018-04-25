@@ -7,6 +7,7 @@ package com.example.zhangzhongshuai.pattern;
 public class Seqence {
     private Object[] items;
     private int next = 0;
+    private int x = 0;
 
     public Seqence(int size) {
 
