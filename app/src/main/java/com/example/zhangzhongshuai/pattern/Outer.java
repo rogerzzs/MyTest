@@ -5,6 +5,7 @@ package com.example.zhangzhongshuai.pattern;
  */
 
 public class Outer {
+    private int x;
     class Iner {
 
     }
