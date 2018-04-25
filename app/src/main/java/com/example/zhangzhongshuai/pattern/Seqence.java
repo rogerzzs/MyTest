@@ -10,7 +10,6 @@ public class Seqence {
     private int x = 0;
 
     public Seqence(int size) {
-
         items = new Object[size];
     }
 
