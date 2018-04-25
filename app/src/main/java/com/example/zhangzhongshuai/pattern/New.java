@@ -5,4 +5,5 @@ package com.example.zhangzhongshuai.pattern;
  */
 
 public class New {
+    private int index = 0;
 }
